@@ -5,6 +5,9 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
+    "base-64": "^1.0.0",
+    "canvas": "^2.8.0",
+    "formik": "^2.2.9",
     "gatsby": "^3.11.1",
     "gatsby-plugin-gatsby-cloud": "^2.11.0",
     "gatsby-plugin-image": "^1.11.0",
@@ -14,10 +17,16 @@
     "gatsby-plugin-sharp": "^3.11.0",
     "gatsby-source-filesystem": "^3.11.0",
     "gatsby-transformer-sharp": "^3.11.0",
+    "google-map-react": "^2.1.10",
+    "pdf-viewer-reactjs": "^2.2.3",
     "prop-types": "^15.7.2",
+    "query-string": "^7.0.1",
     "react": "^17.0.1",
+    "react-doc-viewer": "^0.1.5",
     "react-dom": "^17.0.1",
-    "react-helmet": "^6.1.0"
+    "react-helmet": "^6.1.0",
+    "react-pdfobject": "^1.1.1",
+    "react-scroll": "^1.8.3"
   },
   "devDependencies": {
     "prettier": "2.3.2"
