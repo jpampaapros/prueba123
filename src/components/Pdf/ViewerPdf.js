@@ -2,7 +2,7 @@ import React from 'react';
 // import DocViewer, { PDFRenderer , PNGRenderer } from "react-doc-viewer";
 // import PDFViewer from 'pdf-viewer-reactjs'
 
-import { PDFObject },view  from 'react-pdfobject'
+import { PDFObject }  from 'react-pdfobject'
 
 export default function ViewerPdf() {
 
