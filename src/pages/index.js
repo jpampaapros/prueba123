@@ -17,8 +17,8 @@ const IndexPage = () => (
     {/*<Buscador/>*/}
     {/*<ScrollAnimation/>*/}
     {/*<ArchivoPdf/>*/}
-    {/*<ViewerPdf/>*/}
-    <Step/>
+    <ViewerPdf/>
+    {/*<Step/>*/}
   </Layout>
 )
 
