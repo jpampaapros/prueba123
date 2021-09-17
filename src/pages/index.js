@@ -1,13 +1,15 @@
 import * as React from "react"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import Mapa1 from "../components/Mapa/Mapa1"
-import Filtro from "../components/Filtro/Filtro"
-import Buscador from "../components/Filtro/Buscador"
-import ScrollAnimation from "../components/Scroll/ScrollAnimation"
-import ArchivoPdf from "../components/Pdf/ArchivoPdf"
-import ViewerPdf from "../components/Pdf/ViewerPdf"
-import Step from "../components/Step/Step"
+import Wiewpdf from "../components/Pdf/Wiewpdf"
+// import ReactPdfViewer from "../components/Pdf/ReactPdfViewer"
+// import Mapa1 from "../components/Mapa/Mapa1"
+// import Filtro from "../components/Filtro/Filtro"
+// import Buscador from "../components/Filtro/Buscador"
+// import ScrollAnimation from "../components/Scroll/ScrollAnimation"
+// import ArchivoPdf from "../components/Pdf/ArchivoPdf"
+// import PdfObject from "../components/Pdf/PdfObject"
+// import Step from "../components/Step/Step"
 
 const IndexPage = () => (
   <Layout>
@@ -17,8 +19,10 @@ const IndexPage = () => (
     {/*<Buscador/>*/}
     {/*<ScrollAnimation/>*/}
     {/*<ArchivoPdf/>*/}
-    <ViewerPdf/>
+    {/*<PdfObject/>*/}
     {/*<Step/>*/}
+    {/*<ReactPdfViewer/>*/}
+    <Wiewpdf/>
   </Layout>
 )
 

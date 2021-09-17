@@ -1,0 +1,65 @@
+{
+    "projects": [
+        {
+            "id": 19,
+            "code": "TP",
+            "name": "Toribio Polo 322",
+            "building_type": "edificio",
+            "project_type": "Vivienda residencial",
+            "currency": "USD",
+            "description": "",
+            "total_cost": null,
+            "slug": "toribio-polo-322",
+            "budget_web_link": "/projects/toribio-polo-322/cotizador",
+            "ubication": {
+                "country": "Peru",
+                "department": "Lima",
+                "province": "Lima",
+                "district": "Miraflores",
+                "address": "Toribio Polo 322",
+                "latitud": -12.1130869,
+                "longitud": -77.0469165
+            },
+            "gallery": [],
+            "blueprints": [],
+            "supervisors": [],
+            "construction": {
+                "status": null,
+                "real_date": null,
+                "estimated_date": null,
+                "progress": "0.0"
+            },
+            "warranty": {
+                "warranty_at": null,
+                "warranty_year": 0,
+                "warranty_month": 0,
+                "warranty_start_date_finishes": null,
+                "warranty_duration_finishes_year": 0,
+                "warranty_duration_finishes_month": 0,
+                "warranty_duration_commercial_year": 0,
+                "warranty_duration_commercial_month": 0
+            },
+            "total_units": 0,
+            "total_available_units": 0,
+            "total_sold_units": 0,
+            "total_blocks": null,
+            "start_date_sale": null,
+            "total_parking": 0,
+            "total_warehouse": 0,
+            "total_levels": 1,
+            "banking_sponsor": "-",
+            "social_networking_sites": {
+                "facebook_url": "",
+                "youtube_channel_url": "",
+                "tour_virtual_url": "",
+                "instagram_url": null,
+                "website_url": ""
+            },
+            "contact": null,
+            "logo": "default/build.jpg",
+            "subdivisions": [],
+            "department_range_metraje": null,
+            "department_range_price": null,
+            "types": [],
+            "common_areas": []
+        },
