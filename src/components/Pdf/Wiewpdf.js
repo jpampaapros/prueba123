@@ -1,6 +1,9 @@
 import React from 'react';
-import FileViewer from 'react-file-viewer';
+// import FileViewer from 'react-file-viewer';
 import "./Pdf.css";
+import loadable from '@loadable/component'
+
+const FileViewer = loadable(() => import('react-file-viewer'))
 
 export default function Wiewpdf() {
 
