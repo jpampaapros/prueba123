@@ -6,6 +6,7 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "@loadable/component": "^5.15.0",
+    "@phuocng/react-pdf-viewer": "^1.7.0",
     "@react-pdf-viewer/core": "^2.8.0",
     "gatsby": "^3.11.1",
     "gatsby-plugin-gatsby-cloud": "^2.11.0",
@@ -16,7 +17,7 @@
     "gatsby-plugin-sharp": "^3.11.0",
     "gatsby-source-filesystem": "^3.11.0",
     "gatsby-transformer-sharp": "^3.11.0",
-    "pdfjs-dist": "^2.9.359",
+    "pdfjs-dist": "^2.4.456",
     "pdfviewer": "^1.1.1",
     "prop-types": "^15.7.2",
     "query-string": "^7.0.1",

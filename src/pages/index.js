@@ -1,7 +1,8 @@
 import * as React from "react"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import Wiewpdf from "../components/Pdf/Wiewpdf"
+import Pdfvieweer from "../components/Pdf/Pdfvieweer"
+// import Wiewpdf from "../components/Pdf/Wiewpdf"
 // import ReactPdfViewer from "../components/Pdf/ReactPdfViewer"
 // import Mapa1 from "../components/Mapa/Mapa1"
 // import Filtro from "../components/Filtro/Filtro"
@@ -22,7 +23,8 @@ const IndexPage = () => (
     {/*<PdfObject/>*/}
     {/*<Step/>*/}
     {/*<ReactPdfViewer/>*/}
-    <Wiewpdf/>
+    {/*<Wiewpdf/>*/}
+    <Pdfvieweer/>
   </Layout>
 )
 
